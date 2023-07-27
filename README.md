@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yutakobayashidev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iuto)
 ![Stats](https://github-readme-stats.vercel.app/api?username=yutakobayashidev&count_private=true&show_icons=true&line_height=40)
 
 <!--START_SECTION:lapras-card-->
